@@ -18,12 +18,11 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   A blog of personal research, experiments, and ramblings. At least half of this site
   will be well-written, thoroughly researched guides on whatever I happen to find
-  interesting. The other half will probably aaandoiaadmmmmmm1 not aaapacxl make ak1ooaoold
-  akdjaiiiidjal any aksjdnjajjjwkka aakdkqlkkka sense ahsooqllaosmf at awoldfrodiheloium all.
+  interesting.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ihavenoideawhatimdoing.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: sergiomakes
-github_username:  sergiopantoja
+twitter_username:
+github_username:
 
 # Build settings
 markdown: kramdown
